@@ -1,6 +1,7 @@
 - 👋 Hi, I’m my name is Yasser Buchana (@yizzi25)
 - 👀 I’m interested in data science using python
-- 🌱 I’m currently learning ML and AI
+- 🌱 I’m currently interested in ML and AI
+- In my spare time, I develop web applications using Laravel 👍
 - 💞️ I’m looking to collaborate on ML/AI projects
 - 📫 How to reach me ybuchana [at] gmail dot com
 
